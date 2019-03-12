@@ -39,6 +39,4 @@ public class demoController {
         Integer idl = Integer.parseInt(id);
         return idl;
     }
-
-
 }
